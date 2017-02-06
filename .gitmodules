@@ -1,0 +1,3 @@
+[submodule "pages/test/pages/test/app"]
+	path = pages/test/pages/test/app
+	url = https://github.com/duanlixin/core.git
